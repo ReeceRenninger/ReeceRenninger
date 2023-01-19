@@ -1,4 +1,4 @@
-### Hello! Thanks for visiting my page. 👋
+### Hello and Welcome to my page! 👋
 
 
 
@@ -12,3 +12,4 @@ more advanced concepts as my knowledge base increases...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reecerenninger/)...
 - ⚡ Fun fact: I had the honor of doing the coin flip at an international soccer game ...
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReeceRenninger&theme=radical&border_radius=5)](https://git.io/streak-stats)
