@@ -1,7 +1,8 @@
 ### Hello and Welcome! 👋
 
+- We all start somewhere on this journey! Never give up when you hit a wall!
 
-
+![Homer](homer.technology.gif)
 
 - 🔭 I’m currently working on becoming a full stack developer in JavaScript.
 - 🌱 I’m currently learning JavaScript, HTML, CSS.
