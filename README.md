@@ -1,7 +1,5 @@
 ### Hello! Thanks for visiting my page. 👋
 
-<!--
-**ReeceRenninger/ReeceRenninger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -13,4 +11,4 @@ more advanced concepts as my knowledge base increases...
 - 💬 Ask me about my military experience, career fields, or how I got here! ...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reecerenninger/)...
 - ⚡ Fun fact: I had the honor of doing the coin flip at an international soccer game ...
--->
+
