@@ -1,6 +1,6 @@
 ### Hello and Welcome! 👋
 
-- We all start somewhere on this journey! Never give up when you hit a wall!
+- We all start somewhere on this journey! Never give up!
 
 ![Homer](homer.technology.gif)
 
