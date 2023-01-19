@@ -1,4 +1,4 @@
-### Hello and Welcome to my page! 👋
+### Hello and Welcome! 👋
 
 
 
