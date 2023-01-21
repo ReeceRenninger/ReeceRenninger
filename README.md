@@ -12,4 +12,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reecerenninger/)
 - ⚡ Fun fact: I had the honor of doing the coin flip at an international soccer game.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReeceRenninger&theme=radical&background=04003A&border=DD2727&stroke=DDDDDD&fire=DDD37A&ring=2EDDD1&currStreakNum=2CDD4B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReeceRenninger&theme=radical&background=04003A&border=DD2727&stroke=DDDDDD&fire=DD0000&ring=2EDDD1&currStreakNum=2CDD4B)](https://git.io/streak-stats)
