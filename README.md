@@ -13,3 +13,6 @@
 - ⚡ Fun fact: I had the honor of doing the coin flip at an international soccer game.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReeceRenninger&theme=radical&background=04003A&border=DD2727&stroke=DDDDDD&fire=DD0000&ring=2EDDD1&currStreakNum=F5FFFE)](https://git.io/streak-stats)
+
+
+## Resources Used to Build this Repo
