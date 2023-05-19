@@ -1,7 +1,5 @@
 # Hello and Welcome! 👋
 
-![My Canva Banner of my knowledge images]()
-
 - We all start somewhere on this journey! Never give up!
 
 ![Homer](homer.technology.gif)
@@ -23,6 +21,8 @@
 ## Resources Used to Build this Repo
 
 [Emoji Library](https://emojipedia.org/)
+
+[GitHub Streak Counter](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [Canva to create Banner](https://www.canva.com/)
 
