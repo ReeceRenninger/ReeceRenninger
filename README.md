@@ -7,9 +7,9 @@
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ReeceRenninger&left_color=blue&right_color=black)
 
-- 🔭 I’m currently working on becoming a full stack developer in JavaScript.
-- 🌱 I’m currently learning JavaScript, React, HTML, CSS.
-- 👯 I’m looking to collaborate on any beginner projects! I am starting out with website creation and functionality right now, but would love to move toward more advanced concepts as my knowledge base increases.
+- 🔭 II am a full-stack JavaScript Developer!
+- 🌱 I’m currently expanding my learning in JavaScript, React, Node, SQL, MongoDB, HTML, CSS, SCSS.
+- 👯 I’m looking to collaborate on any beginner or open source projects! I am starting out with website creation and functionality right now, but would love to move toward more advanced concepts!
 - 🤔 I’m looking for help with anything! Even if its not something I am currently trying to learn, any advice or knowledge is always appreciated!
 - 💬 Ask me about my military experience, career fields, or how I got here!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reecerenninger/)
