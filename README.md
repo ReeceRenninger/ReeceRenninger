@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I had the honor of doing the coin flip at an international soccer game.
 
 
-[![Reece Renninger's GitHub stats](https://github-readme-stats-beta-ten-43.vercel.app/api?username=ReeceRenninger)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![Reece Renninger's GitHub stats](https://github-readme-stats-beta-ten-43.vercel.app/api?username=ReeceRenninger)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReeceRenninger&theme=radical&background=04003A&border=DD2727&stroke=DDDDDD&fire=DD0000&ring=2EDDD1&currStreakNum=F5FFFE)](https://git.io/streak-stats)
 
