@@ -5,8 +5,8 @@
 ![Homer](homer.technology.gif)
 
 
-- 🔭 I am a full-stack JavaScript Developer!
-- 🌱 I’m currently expanding my learning in JavaScript, React, Node, SQL, MongoDB, HTML, CSS, SCSS.
+- 🔭 I am a full-stack JavaScript Developer and am in the process of learning Python!
+- 🌱 I’m currently expanding my learning in JavaScript, Python, AWS, React, Node, SQL, MongoDB, HTML, CSS, SCSS.
 - 👯 I’m looking to collaborate on any beginner or open source projects! I am starting out with website creation and functionality right now, but would love to move toward more advanced concepts!
 - 🤔 I’m looking for help with anything! Even if its not something I am currently trying to learn, any advice or knowledge is always appreciated!
 - 💬 Ask me about my military experience, career fields, or how I got here!
