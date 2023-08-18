@@ -1,5 +1,5 @@
 # Hello and Welcome! 👋
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=ReeceRenninger&style=flat&color=brightgreen)
 - We all start somewhere on this journey! Never give up!
 
 ![Homer](homer.technology.gif)
