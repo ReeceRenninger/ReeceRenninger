@@ -6,9 +6,9 @@
 
 
 - 🔭 I am a full-stack JavaScript Developer and am in the process of learning Python!
-- 🌱 I’m currently expanding my learning in JavaScript, Python, AWS, React, Node, SQL, MongoDB, HTML, CSS, SCSS.
-- 👯 I’m looking to collaborate on any beginner or open source projects! I am starting out with website creation and functionality right now, but would love to move toward more advanced concepts!
-- 🤔 I’m looking for help with anything! Even if its not something I am currently trying to learn, any advice or knowledge is always appreciated!
+- 🌱 I’m currently expanding my learning in JavaScript, Python, C#, Django, AWS, React, Node, SQL, MongoDB, HTML, CSS, SCSS.
+- 👯 I’m looking to collaborate on any personal or open source projects! I am currently working on a couple Python based games, learning Django, and C#!
+- 🤔 I’m always open to having a conversation about anything in tech, whether it something I know or have no idea about!
 - 💬 Ask me about my military experience, career fields, or how I got here!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reecerenninger/)
 - ⚡ Fun fact: I had the honor of doing the coin flip at an international soccer game.
