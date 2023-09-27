@@ -13,6 +13,14 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reecerenninger/)
 - ⚡ Fun fact: I had the honor of doing the coin flip at an international soccer game.
 
+### My Skillset
+<p align="center">
+  <a href="https://skillicons.dev" target='blank'>
+    <img src="https://skillicons.dev/icons?i=js,react,angular,redux,threejs,vite,nextjs,nodejs,express,jest,postgres,mongodb,sqlite,sequelize,html,css,sass,bootstrap,materialui,linux,kotlin,cs,py,aws,heroku,netlify,vercel,github,githubactions,vscode,idea,unity,visualstudio,eclipse&perline=10" />
+  </a>
+
+</p>
+
 Language tracker is deployed through a free service on vercel so you may need to refresh to see it for the server to spool up!
 [![Reece Renninger's GitHub language stats](https://github-readme-stats-beta-ten-43.vercel.app/api/top-langs/?username=ReeceRenninger&theme=radical)](https://github.com/ReeceRenninger/github-readme-stats)
 
