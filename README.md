@@ -13,10 +13,10 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reecerenninger/)
 - ⚡ Fun fact: I had the honor of doing the coin flip at an international soccer game.
 
-### My Skillset
+<h2 align="center">My Skillset</h2>
 <p align="center">
   <a href="https://skillicons.dev" target='blank'>
-    <img src="https://skillicons.dev/icons?i=js,react,angular,redux,threejs,vite,nextjs,nodejs,express,jest,postgres,mongodb,sqlite,sequelize,html,css,sass,bootstrap,materialui,linux,kotlin,cs,py,aws,heroku,netlify,vercel,github,githubactions,vscode,idea,unity,visualstudio,eclipse&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,react,angular,redux,threejs,vite,nextjs,nodejs,express,jest,postgres,mongodb,sqlite,sequelize,html,css,sass,bootstrap,materialui,linux,kotlin,cs,py,aws,heroku,netlify,vercel,github,githubactions,vscode,visualstudio,eclipse&perline=10" />
   </a>
 
 </p>
