@@ -5,8 +5,8 @@
 ![Homer](homer.technology.gif)
 
 
-- 🔭 I am a full-stack JavaScript Developer and am in the process of learning Python!
-- 🌱 I’m currently expanding my learning in JavaScript, Python, C#, Django, AWS, React, Node, SQL, MongoDB, HTML, CSS, SCSS.
+- 🔭 I am a full-stack JavaScript Developer and am in the process of learning Python/Kotlin/C#!
+- 🌱 I’m currently expanding my learning in Python, Kotlin, and C#.
 - 👯 I’m looking to collaborate on any personal or open source projects! I am currently working on a couple Python based games, learning Django, and C#!
 - 🤔 I’m always open to having a conversation about anything in tech, whether it something I know or have no idea about!
 - 💬 Ask me about my military experience, career fields, or how I got here!
