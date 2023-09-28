@@ -1,11 +1,10 @@
-# Hello and Welcome! 👋
+<h1 align="center">Hello and Welcome! 👋</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ReeceRenninger&style=flat&color=brightgreen"/>
-  
 </div>
 
-- We all start somewhere on this journey! Never give up!
+<h2 align="center">We all start somewhere on this journey! Never give up!</h2>
 
 
 <div align="center">
