@@ -6,7 +6,8 @@ I'm a dedicated full-stack developer on a continous journey to enhance my skills
   
 **`Get in Contact!`**
 
-<strong><a href="https://www.linkedin.com/in/reecerenninger/" onclick="window.open('https://www.linkedin.com/in/reecerenninger/')">LinkedIn</a></strong>
+<a href="https://www.linkedin.com/in/reecerenninger/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
+<a href="mailto:renningerreece@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
 </div>
 
 
