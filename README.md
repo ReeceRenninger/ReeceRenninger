@@ -28,10 +28,11 @@
 
 </p>
 
-<div align="center">
+<!--- <div align="center">
   <a href="https://github.com/ReeceRenninger/github-readme-stats">
     <img src="https://github-readme-stats-beta-ten-43.vercel.app/api/top-langs/?username=ReeceRenninger&theme=radical" alt="Reece Renninger's GitHub language stats">
-  </a>
+  </a> --->
+<div align="center">
   <br> 
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ReeceRenninger&theme=radical&background=04003A&border=DD2727&stroke=DDDDDD&fire=DD0000&ring=2EDDD1&currStreakNum=F5FFFE" alt="GitHub Streak">
