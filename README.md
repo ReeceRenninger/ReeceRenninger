@@ -4,9 +4,10 @@
   
 **`Get in Contact!`**
 
-<a href="https://www.linkedin.com/in/reecerenninger/" target="_blank">LinkedIn</a> | <a href="renningerreece@gmail.com">Email</a>
-
+<strong><a href="https://www.linkedin.com/in/reecerenninger/" onclick="window.open('https://www.linkedin.com/in/reecerenninger/')">LinkedIn</a></strong> | <strong><a href="mailto:renningerreece@gmail.com">Email</a></strong>
 </div>
+
+I'm a full stack developer learning new technologies to continue developing myself to be the best developer I can be! I am currently looking for work so if you know of anyone looking for a developer, send them my way!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ReeceRenninger&style=flat&color=brightgreen"/>
@@ -30,9 +31,9 @@ Years went by, and I enlisted in the military, went to college, got a degree, ma
 <details>
 <summary align="center"><h2>What am I doing now?</h2></summary>
   <ul>
-    <li> I am a full-stack JavaScript Developer looking for work! </li>
     <li> I’m currently expanding my learning in Python, Kotlin, and C#. </li>
-    <li> I’m looking to collaborate on any personal or open source projects! I am currently working on a couple Python based games and learning django to expand my full stack capabilities! </li>
+    <li> I am currently working on a couple Python based games and learning django to expand my full stack capabilities! </li>
+    <li> I’m looking to collaborate on any personal or open source projects! </li>
   </ul>
 </details>
 
