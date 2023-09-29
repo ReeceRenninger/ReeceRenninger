@@ -1,13 +1,14 @@
 # 🖳 Reece Renninger
 
+I'm a dedicated full-stack developer on a continous journey to enhance my skills and reach the pinnacle of development expertise. Currently seeking new opportunities, so if you're aware of any openings, I'd greatly appreciate your referral!
+
 <div align="center">
   
 **`Get in Contact!`**
 
-<strong><a href="https://www.linkedin.com/in/reecerenninger/" onclick="window.open('https://www.linkedin.com/in/reecerenninger/')">LinkedIn</a></strong> | <strong><a href="mailto:renningerreece@gmail.com">Email</a></strong>
+<strong><a href="https://www.linkedin.com/in/reecerenninger/" onclick="window.open('https://www.linkedin.com/in/reecerenninger/')">LinkedIn</a></strong>
 </div>
 
-I'm a full stack developer learning new technologies to continue developing myself to be the best developer I can be! I am currently looking for work so if you know of anyone looking for a developer, send them my way!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ReeceRenninger&style=flat&color=brightgreen"/>
