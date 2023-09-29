@@ -1,19 +1,16 @@
-# 🖳 Reece Renninger
-
-I'm a dedicated full-stack developer on a continous journey to enhance my skills and reach the pinnacle of development expertise. Currently seeking new opportunities, so if you're aware of any openings, I'd greatly appreciate your referral!
+# 🖳 Reece Renninger <img src="https://komarev.com/ghpvc/?username=ReeceRenninger&style=flat&color=brightgreen"/>
 
 <div align="center">
   
-**`Get in Contact!`**
+**`My Contacts!`**
 
-<a href="https://www.linkedin.com/in/reecerenninger/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
-<a href="mailto:renningerreece@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
+<a href="https://www.linkedin.com/in/reecerenninger/" target="_blank" rel="noopener noreferrer"><img src="./linkedin.png"></a> 
+<a href="mailto:renningerreece@gmail.com" target="_blank" rel="noopener noreferrer"><img src ="./gmail.png"></a>
 </div>
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReeceRenninger&style=flat&color=brightgreen"/>
-</div>
+I'm a dedicated full-stack developer on a continous journey to enhance my skills and reach the pinnacle of development expertise. Currently seeking new opportunities, so if you're aware of any openings, I'd greatly appreciate your referral!
+
 
 <h2 align="center">We all start somewhere on this journey! Never give up!</h2>
 
