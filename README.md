@@ -4,7 +4,7 @@
   
 **`Get in Contact!`**
 
-**[LinkedIn](https://www.linkedin.com/in/reecerenninger/) | [Email](renningerreece@gmail.com)**
+<a href="https://www.linkedin.com/in/reecerenninger/" target="_blank">LinkedIn</a> | <a href="renningerreece@gmail.com">Email</a>
 
 </div>
 
