@@ -6,11 +6,12 @@
 **`My Contacts!`**
 
 <a href="https://www.linkedin.com/in/reecerenninger/" target="_blank" rel="noopener noreferrer"><img src="./linkedin.png"></a> 
+<a href="https://tryhackme.com/p/renningerreece" target="_blank">TryHackMe Profile</a>
 <a href="mailto:renningerreece@gmail.com" target="_blank" rel="noopener noreferrer"><img src ="./gmail.png"></a>
 </div>
 
 
-I'm a dedicated full-stack developer on a continous journey to enhance my skills and reach the pinnacle of development expertise. Currently seeking new opportunities, so if you're aware of any openings, I'd greatly appreciate your referral!
+I'm a full-stack developer and aspiring pen tester on a continous journey to enhance my skills and reach the pinnacle of development expertise. Currently seeking new opportunities, so if you're aware of any openings, I'd greatly appreciate your referral!
 
 
 <h2 align="center">We all start somewhere on this journey! Never give up!</h2>
