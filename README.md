@@ -6,7 +6,7 @@
 **`My Contacts!`**
 
 <a href="https://www.linkedin.com/in/reecerenninger/" target="_blank" rel="noopener noreferrer"><img src="./linkedin.png"></a> 
-<a href="https://tryhackme.com/p/renningerreece" target="_blank">TryHackMe Profile</a>
+<!--- <a href="https://tryhackme.com/p/renningerreece" target="_blank">TryHackMe Profile</a> --->
 <a href="mailto:renningerreece@gmail.com" target="_blank" rel="noopener noreferrer"><img src ="./gmail.png"></a>
 </div>
 
@@ -32,8 +32,8 @@ Years went by, and I enlisted in the military, went to college, got a degree, ma
 <details>
 <summary align="center"><h2>What am I doing now?</h2></summary>
   <ul>
-    <li> I’m currently expanding my learning in Python, Kotlin, and C#. </li>
-    <li> I am currently working on a couple Python based games and learning django to expand my full stack capabilities! </li>
+    <li> I’m currently expanding my learning in Python, C#, and Cyber Security. </li>
+    <li> I am currently working on a couple Python based games and advancing my skills in pen testing </li>
     <li> I’m looking to collaborate on any personal or open source projects! </li>
   </ul>
 </details>
