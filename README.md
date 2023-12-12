@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/renningerreece.png" alt="TryHackMe">
+<a href ="https://tryhackme.com/p/renningerreece" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/renningerreece.png" alt="TryHackMe"></a>
 </div>
 I'm a full-stack developer and aspiring pen tester on a continous journey to enhance my skills and reach the pinnacle of development expertise. Currently seeking new opportunities, so if you're aware of any openings, I'd greatly appreciate your referral!
 
