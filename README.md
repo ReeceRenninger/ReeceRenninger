@@ -10,7 +10,9 @@
 <a href="mailto:renningerreece@gmail.com" target="_blank" rel="noopener noreferrer"><img src ="./gmail.png"></a>
 </div>
 
-
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/renningerreece.png" alt="TryHackMe">  
+</div>
 I'm a full-stack developer and aspiring pen tester on a continous journey to enhance my skills and reach the pinnacle of development expertise. Currently seeking new opportunities, so if you're aware of any openings, I'd greatly appreciate your referral!
 
 
